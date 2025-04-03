@@ -28,4 +28,17 @@ A fun and interactive Python terminal game that challenges players to unscramble
 ## Run the game:
 python word_scramble.py
 
+## 🎮 How to Play:
+Welcome to the Word Scramble Game!
+Scrambled word: rgapomminr
+
+Guess the word (or type 'exit' to quit): programming
+Correct! You guessed it!
+
+Do you want to play again? (yes/no): yes
+
+Scrambled word: otincbni
+Guess the word: bitcoin
+Correct! You guessed it!
+
 
