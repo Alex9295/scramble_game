@@ -1,55 +1,26 @@
-                                                  - scramble_game - 
+# 🧩 Word Scramble Game
 
-Word Scramble Game in Python
-Can you unscramble these coding terms? Test your programming knowledge with this interactive word scramble game!
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
+A fun and interactive Python terminal game that challenges players to unscramble programming terms. Perfect for both beginners learning Python and experienced coders looking for a quick brain teaser!
 
+![Gameplay Demo](demo.gif) *Replace with actual gameplay GIF*
 
+## 📌 Table of Contents
+- [Features](#-features)
+- [Installation](#-installation)
+- [How to Play](#-how-to-play)
+- [Development](#-development)
+- [Contributing](#-contributing)
+- [License](#-license)
 
-How to Play:
-You'll see a scrambled programming term
-
-You get 3 attempts to guess the correct word
-
-Type "exit" anytime to quit
-
-Play as many rounds as you want!
-
-
-
-
-
-
-
-Features:
-12 common programming terms to unscramble
-
-Multiple attempts with feedback
-
-Case-insensitive input
-
-Play again option
-
-Simple, clean interface
-
-
-
-
-
-
-Example Inputs:
-Welcome to the Word Scramble Game!
-
-Scrambled word: lgpomirarnm
-
-Guess the word (or type 'exit' to quit): programming
-
-Correct! You guessed it!
-
-Do you want to play again? (yes/no): yes
-
-Scrambled word: nfuticno
-Guess the word (or type 'exit' to quit): function
-Correct! You guessed it!
-
+## ✨ Features
+| Feature | Description |
+|---------|-------------|
+| **Multiple Attempts** | Get 3 tries per word |
+| **Programming Focus** | 12 common coding terms |
+| **User-Friendly** | Case-insensitive input |
+| **Flexible Play** | Play unlimited rounds |
+| **Simple Interface** | Clean terminal-based UI |
 
