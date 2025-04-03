@@ -30,15 +30,13 @@ python word_scramble.py
 
 ## 🎮 How to Play:
 Welcome to the Word Scramble Game!
-Scrambled word: rgapomminr
+Scrambled word: lgpomirarnm
 
 Guess the word (or type 'exit' to quit): programming
 Correct! You guessed it!
 
 Do you want to play again? (yes/no): yes
 
-Scrambled word: otincbni
-Guess the word: bitcoin
+Scrambled word: nfuticno
+Guess the word (or type 'exit' to quit): function
 Correct! You guessed it!
-
-
