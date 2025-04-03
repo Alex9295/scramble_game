@@ -27,9 +27,11 @@ Simple, clean interface
 
 Example Inputs:
 Welcome to the Word Scramble Game!
+
 Scrambled word: lgpomirarnm
 
 Guess the word (or type 'exit' to quit): programming
+
 Correct! You guessed it!
 
 Do you want to play again? (yes/no): yes
