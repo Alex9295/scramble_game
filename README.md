@@ -24,3 +24,8 @@ A fun and interactive Python terminal game that challenges players to unscramble
 | **Flexible Play** | Play unlimited rounds |
 | **Simple Interface** | Clean terminal-based UI |
 
+
+## Run the game:
+python word_scramble.py
+
+
