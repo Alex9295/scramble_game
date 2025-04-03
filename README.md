@@ -4,6 +4,7 @@ Word Scramble Game in Python
 Can you unscramble these coding terms? Test your programming knowledge with this interactive word scramble game!
 
 
+
 How to Play:
 You'll see a scrambled programming term
 
@@ -12,6 +13,7 @@ You get 3 attempts to guess the correct word
 Type "exit" anytime to quit
 
 Play as many rounds as you want!
+
 
 
 Features:
