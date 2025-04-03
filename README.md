@@ -16,6 +16,10 @@ Play as many rounds as you want!
 
 
 
+
+
+
+
 Features:
 12 common programming terms to unscramble
 
@@ -26,6 +30,10 @@ Case-insensitive input
 Play again option
 
 Simple, clean interface
+
+
+
+
 
 
 Example Inputs:
